@@ -1,0 +1,15 @@
+.intro h2 {
+  color: red;
+  font-family: fantasy;
+}
+
+.intro p {
+  color: green;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.intro img {
+  float: right;
+  width: 50%;
+}
